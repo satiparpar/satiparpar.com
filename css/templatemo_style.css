@@ -37,7 +37,7 @@ h1 {
 .templatemo_title {
     font-size: 3em;
     margin-top: 3%;
-    font-weight: bold;
+    font-weight:bolder;
     color: #92bf24;
     letter-spacing: -5px;
     text-shadow: 2px 2px #545454;
